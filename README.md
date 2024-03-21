@@ -30,7 +30,7 @@ sudo apt install openjdk-11-jre
 Verify Java is Installed
 
 ```
-java -version
+java -version Java 11
 ```
 
 Now, you can proceed with installing Jenkins
